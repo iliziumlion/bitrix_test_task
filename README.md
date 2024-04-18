@@ -1,1 +1,1 @@
-# bitrix_test_task
+# Bitrix project for test tasks
